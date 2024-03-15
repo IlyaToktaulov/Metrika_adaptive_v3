@@ -1,0 +1,39 @@
+.nav-container {
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1151px;
+    height: 25px;
+}
+
+.logo-link {
+    display: inline-block;
+    margin-right: 484px;
+}
+
+.logo {
+    display: block;
+}
+
+.nav {
+    display: inline-block;
+    vertical-align: top;
+    height: 25px;
+}
+
+.nav__title {
+    line-height: 25px;
+}
+
+.nav__link {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 60px;
+    height: 25px;
+    text-decoration: none;
+    color: #121212;
+}
+
+#about {
+    opacity: 0.5;
+    text-decoration: underline;
+}
